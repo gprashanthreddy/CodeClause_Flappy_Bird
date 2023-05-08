@@ -1,1 +1,1 @@
-Flappy Bird using python
+Flappy Bird game using python
